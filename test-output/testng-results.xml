@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-12T08:42:10 IST" name="Default suite" finished-at="2024-02-12T08:42:22 IST" duration-ms="11958">
+    <groups>
+    </groups>
+    <test started-at="2024-02-12T08:42:10 IST" name="Default test" finished-at="2024-02-12T08:42:22 IST" duration-ms="11958">
+      <class name="utilities.Extend">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:utilities.Extend@131774fe]" started-at="2024-02-12T08:42:10 IST" name="beforeClass" finished-at="2024-02-12T08:42:13 IST" duration-ms="3444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="testSearch1()[pri:0, instance:utilities.Extend@131774fe]" started-at="2024-02-12T08:42:13 IST" name="testSearch1" description="Search Iphone 15 pro max" finished-at="2024-02-12T08:42:17 IST" duration-ms="3748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch1 -->
+        <test-method signature="testSearch2()[pri:0, instance:utilities.Extend@131774fe]" started-at="2024-02-12T08:42:17 IST" name="testSearch2" description="Search Apple Mac book" finished-at="2024-02-12T08:42:21 IST" duration-ms="4209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:utilities.Extend@131774fe]" started-at="2024-02-12T08:42:21 IST" name="tearDown" finished-at="2024-02-12T08:42:22 IST" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- utilities.Extend -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
